@@ -1,0 +1,20 @@
+3️⃣ Windows 11 ‑laitteen liittäminen Entraan
+Vaiheet:
+  Asenna Windows 11
+  OOBE‑vaiheessa valitse:
+  Työ- tai koulukäyttöön”
+
+Kirjaudu sisään Jackie‑tilillä
+
+Windows suorittaa automaattisesti: 
+  Azure AD Join
+  Profiilin luonnin
+  PIN‑asetuksen (jos sallittu)
+
+Tarkistus:
+Microsoft Entra → Devices → All devices
+  Näkyy: Join type: Azure AD Joined
+  Primary user: Jackie
+
+Lopputulos
+Fyysinen Windows 11 ‑kone on liitetty pilveen.
