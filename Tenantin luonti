@@ -1,0 +1,18 @@
+1️⃣ Tenantin luonti
+Vaiheet
+1. Kirjaudu Azure-portaaliin: https://portal.azure.com
+
+2. Avaa: Microsoft Entra ID
+
+4. Valitse: Manage tenants → Create
+
+5. Tenant type: Microsoft Entra ID
+
+  - Syötä: Tenant name: escobartestlab
+           Domain: escobartestlab.onmicrosoft.com
+           Luo tenantti
+
+Vaihda Uuteen tenattiin: Switch tenant
+
+Lopputulos
+Tenantti escobartestlab on aktiivinen ja valmis käyttäjien luontiin.
