@@ -1,0 +1,16 @@
+🧩 Yleiskuvaus
+Tässä labrassa rakennetaan alusta asti toimiva Microsoft Entra ID ‑ympäristö:
+
+- Uusi tenantti Azureen
+
+- Kaksi käyttäjää (Minni ja Jackie)
+
+- Fyysinen Windows 11 ‑laite
+
+- Azure AD Join / Entra Join
+
+- MFA ja Windows Hello PIN
+
+- Kirjautumisten seuranta ja auditointi
+
+Tämä toimii pohjana jatkoharjoituksille, kuten Conditional Access, Identity Protection ja PIM.
