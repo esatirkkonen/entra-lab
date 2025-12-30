@@ -1,0 +1,17 @@
+2️⃣ Käyttäjien luonti (Minni ja Jackie)
+Vaiheet:
+Avaa: Microsoft Entra admin center → Users → New user
+
+Luo käyttäjät: 
+    Minni
+    UPN: minni@escobartestlab.onmicrosoft.com
+    User type: Member
+
+    Jackie
+    UPN: jackie@escobartestlab.onmicrosoft.com
+    User type: Member
+
+Kirjaudu sisään molemmilla ja vaihda temporary password.
+
+Lopputulos
+Kaksi toimivaa pilvikäyttäjää.
