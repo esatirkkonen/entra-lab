@@ -1,0 +1,18 @@
+5️⃣ Sign‑in logs ja auditointi
+Tarkistus
+Microsoft Entra → Users → Jackie → Sign‑in logs
+
+Näet:
+
+Onnistuneet kirjautumiset
+
+MFA‑tapahtumat
+
+Laitteen tiedot
+
+IP‑osoitteet
+
+Conditional Access ‑politiikat (jos käytössä)
+
+Lopputulos
+Tenantissa on täysi näkyvyys kirjautumisiin.
