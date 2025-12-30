@@ -1,0 +1,17 @@
+4️⃣ MFA ja PIN‑kirjautuminen
+MFA
+Avaa: Protection → Authentication methods
+
+Ota käyttöön:
+
+Microsoft Authenticator
+
+SMS (valinnainen)
+
+PIN (Windows Hello)
+Ensimmäinen kirjautuminen → PIN‑luonti
+
+Seuraavat kirjautumiset → PIN ilman salasanaa
+
+Lopputulos
+Jackie voi kirjautua nopeasti ja turvallisesti.
